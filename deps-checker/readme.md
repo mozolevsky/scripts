@@ -1,3 +1,3 @@
-#Small CLI to check dependencies in your project
-#Why not to use `yarn outdated`? ...hm it's a good question
-#how to use run `check-versions --help`
+#Small CLI to check dependencies in your project<br />
+#Why not to use `yarn outdated`? ...hm it's a good question<br />
+#how to use run `check-versions --help`<br />
